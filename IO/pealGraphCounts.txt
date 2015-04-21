@@ -1,0 +1,27 @@
+珍珠的个数	每个珍珠里的节点数	    Atoms(b_U(P)) - U 大小
+-----------------------------------------------------------------------
+2		         3			    Atoms(b_U(P)) - U size = 12
+2		         4			    Atoms(b_U(P)) - U size = 17
+2		         5			    Atoms(b_U(P)) - U size = 24
+2		         6   			Atoms(b_U(P)) - U size = 29
+2		         7	      		Atoms(b_U(P)) - U size = 36
+2		         8		     	Atoms(b_U(P)) - U size = 41
+2		         9			    Atoms(b_U(P)) - U size = 47
+3		         4			    Atoms(b_U(P)) - U size = 26
+3		         5			    Atoms(b_U(P)) - U size = 36
+3		         6			    Atoms(b_U(P)) - U size = 44
+3		         7			    Atoms(b_U(P)) - U size = 54
+3		         8			    Atoms(b_U(P)) - U size = 62
+3		         9			    Atoms(b_U(P)) - U size = 71
+4		         5			    Atoms(b_U(P)) - U size = 107
+4		         6			    Atoms(b_U(P)) - U size = 48
+4		         7			    Atoms(b_U(P)) - U size = 59
+4		         8			    Atoms(b_U(P)) - U size = 72
+4		         9			    Atoms(b_U(P)) - U size = 83
+4		         10			    Atoms(b_U(P)) - U size = 95
+5		         6		     	Atoms(b_U(P)) - U size = 134
+5		         7		     	Atoms(b_U(P)) - U size = 149
+5		         8			    Atoms(b_U(P)) - U size = 74
+5		         9			    Atoms(b_U(P)) - U size = 90
+5		         10			    Atoms(b_U(P)) - U size = 104
+5		         11			    Atoms(b_U(P)) - U size = 119

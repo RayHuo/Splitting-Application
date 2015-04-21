@@ -1,0 +1,607 @@
+Total Atom size = 80
+U size : 67
+Answer set Xs num : 100
+
+E done, Es size = 1
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+----------------------------
+Choose X : 
+Answer set Ys num : 0
+
+Solution judge 
+
+
+Time cost : 1.880000 seconds
